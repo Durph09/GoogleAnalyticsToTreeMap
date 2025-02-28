@@ -1,28 +1,28 @@
 [
   {
     "pagePath": "/search/",
-    "views": "6873",
+    "views": "6886",
     "categoryID": null,
     "categoryPath": null,
     "categoryURL": null
   },
   {
     "pagePath": "/",
-    "views": "5755",
+    "views": "5756",
     "categoryID": null,
     "categoryPath": null,
     "categoryURL": null
   },
   {
     "pagePath": "/sales-flyer/",
-    "views": "4847",
+    "views": "4849",
     "categoryID": null,
     "categoryPath": null,
     "categoryURL": null
   },
   {
     "pagePath": "/products/",
-    "views": "1168",
+    "views": "1169",
     "categoryID": 8050,
     "categoryPath": [
       8050
@@ -41,7 +41,7 @@
   },
   {
     "pagePath": "/heating-cooling-ventilation/",
-    "views": "631",
+    "views": "635",
     "categoryID": 5703,
     "categoryPath": [
       8050,
@@ -51,7 +51,7 @@
   },
   {
     "pagePath": "/locations/",
-    "views": "608",
+    "views": "609",
     "categoryID": null,
     "categoryPath": null,
     "categoryURL": null
@@ -89,7 +89,7 @@
   },
   {
     "pagePath": "/contact-us/",
-    "views": "266",
+    "views": "267",
     "categoryID": null,
     "categoryPath": null,
     "categoryURL": null
@@ -369,6 +369,17 @@
     "categoryURL": null
   },
   {
+    "pagePath": "/heaters/",
+    "views": "73",
+    "categoryID": 5791,
+    "categoryPath": [
+      8050,
+      5703,
+      5791
+    ],
+    "categoryURL": "/heaters/"
+  },
+  {
     "pagePath": "/heating-cooling-loss/",
     "views": "72",
     "categoryID": null,
@@ -441,17 +452,6 @@
       5757
     ],
     "categoryURL": "/exterior-doors/"
-  },
-  {
-    "pagePath": "/heaters/",
-    "views": "63",
-    "categoryID": 5791,
-    "categoryPath": [
-      8050,
-      5703,
-      5791
-    ],
-    "categoryURL": "/heaters/"
   },
   {
     "pagePath": "/airjet-1/",
@@ -7766,6 +7766,17 @@
     "categoryURL": "/duct-collars/"
   },
   {
+    "pagePath": "/grilles-registers-diffusers/",
+    "views": "3",
+    "categoryID": 5790,
+    "categoryPath": [
+      8050,
+      5703,
+      5790
+    ],
+    "categoryURL": "/grilles-registers-diffusers/"
+  },
+  {
     "pagePath": "/gutters-accessories/",
     "views": "3",
     "categoryID": 5783,
@@ -9981,6 +9992,19 @@
     "categoryURL": "/automotive-electrical/"
   },
   {
+    "pagePath": "/b-k-133-102-shower-drain-with-stainless-steel-grid-pvc/",
+    "views": "2",
+    "categoryID": 6918,
+    "catetoryPath": [
+      8050,
+      5706,
+      5919,
+      5991,
+      6918
+    ],
+    "categoryURL": "/tub-shower-drains-parts/"
+  },
+  {
     "pagePath": "/b-k-proline-cp-12nlb-pipe-tee-1-4-in-compression-brass/",
     "views": "2",
     "categoryID": 7977,
@@ -10612,6 +10636,18 @@
     "categoryURL": "/duct-dampers/"
   },
   {
+    "pagePath": "/cordless-drills-drivers/",
+    "views": "2",
+    "categoryID": 6784,
+    "categoryPath": [
+      8050,
+      5708,
+      5975,
+      6784
+    ],
+    "categoryURL": "/cordless-drills-drivers/"
+  },
+  {
     "pagePath": "/crown-boiler-433031-ignition-electrode-kit/",
     "views": "2",
     "categoryID": 7457,
@@ -11038,6 +11074,18 @@
     "categoryURL": "/table-saws/"
   },
   {
+    "pagePath": "/dewalt-impact-connect-dwacprir-copper-pipe-cutter-attachment-cordless-plastic-for-dewalt-20-v-max-impact-drivers/",
+    "views": "2",
+    "categoryID": 6752,
+    "catetoryPath": [
+      8050,
+      5708,
+      5960,
+      6752
+    ],
+    "categoryURL": "/specialty-power-tool-parts-accessories/"
+  },
+  {
     "pagePath": "/discharge-hoses/",
     "views": "2",
     "categoryID": 6471,
@@ -11083,6 +11131,17 @@
       6888
     ],
     "categoryURL": "/drainage-hardware-repairs/"
+  },
+  {
+    "pagePath": "/drills-drivers/",
+    "views": "2",
+    "categoryID": 5975,
+    "categoryPath": [
+      8050,
+      5708,
+      5975
+    ],
+    "categoryURL": "/drills-drivers/"
   },
   {
     "pagePath": "/drywall-subfloor-adhesives/",
@@ -11609,17 +11668,6 @@
       6465
     ],
     "categoryURL": "/silicone-caulks/"
-  },
-  {
-    "pagePath": "/grilles-registers-diffusers/",
-    "views": "2",
-    "categoryID": 5790,
-    "categoryPath": [
-      8050,
-      5703,
-      5790
-    ],
-    "categoryURL": "/grilles-registers-diffusers/"
   },
   {
     "pagePath": "/grilles/",
@@ -16024,6 +16072,19 @@
     "categoryURL": "/gutter-connectors/"
   },
   {
+    "pagePath": "/amerimax-t0506-contemporary-center-outlet-5-in-gutter-vinyl-white/",
+    "views": "1",
+    "categoryID": 7013,
+    "catetoryPath": [
+      8050,
+      5711,
+      5783,
+      6039,
+      7013
+    ],
+    "categoryURL": "/gutter-connectors/"
+  },
+  {
     "pagePath": "/amerimax-t1505-contemporary-gutter-connector-5-in-gutter-vinyl-brown/",
     "views": "1",
     "categoryID": 7013,
@@ -16285,19 +16346,6 @@
       7234
     ],
     "categoryURL": "/sink-drains/"
-  },
-  {
-    "pagePath": "/b-k-133-102-shower-drain-with-stainless-steel-grid-pvc/",
-    "views": "1",
-    "categoryID": 6918,
-    "catetoryPath": [
-      8050,
-      5706,
-      5919,
-      5991,
-      6918
-    ],
-    "categoryURL": "/tub-shower-drains-parts/"
   },
   {
     "pagePath": "/b-k-164-607-pipe-union-1-1-2-in-solvent-weld-pvc-gray-sch-80-schedule-150-psi-pressure/",
@@ -16900,6 +16948,19 @@
       6842
     ],
     "categoryURL": "/specialty-pump-parts-accessories/"
+  },
+  {
+    "pagePath": "/bell-gossett-hydrotrol-107035-flow-control-valve-brass/",
+    "views": "1",
+    "categoryID": 7457,
+    "catetoryPath": [
+      8050,
+      5705,
+      5864,
+      6467,
+      7457
+    ],
+    "categoryURL": "/water-heater-parts-accessories/"
   },
   {
     "pagePath": "/bell-gossett-p86596-check-valve-1-in/",
@@ -17891,18 +17952,6 @@
     "categoryURL": "/copper-pipe-fittings/"
   },
   {
-    "pagePath": "/cordless-drills-drivers/",
-    "views": "1",
-    "categoryID": 6784,
-    "categoryPath": [
-      8050,
-      5708,
-      5975,
-      6784
-    ],
-    "categoryURL": "/cordless-drills-drivers/"
-  },
-  {
     "pagePath": "/cordless-hand-planers/",
     "views": "1",
     "categoryID": 6721,
@@ -18209,6 +18258,19 @@
       7147
     ],
     "categoryURL": "/faucet-adapters/"
+  },
+  {
+    "pagePath": "/danco-10529-shower-drain-cover-plastic-stainless-steel-chrome-for-standard-3-in-stand-alone-shower-enclosures/",
+    "views": "1",
+    "categoryID": 6918,
+    "catetoryPath": [
+      8050,
+      5706,
+      5919,
+      5991,
+      6918
+    ],
+    "categoryURL": "/tub-shower-drains-parts/"
   },
   {
     "pagePath": "/danco-11083-tub-shower-trim-kit-acrylic-plastic-stainless-steel-matte-black/",
@@ -19268,18 +19330,6 @@
     ],
     "categoryURL": "/tool-stands-bases/"
   },
-  {
-    "pagePath": "/dewalt-impact-connect-dwacprir-copper-pipe-cutter-attachment-cordless-plastic-for-dewalt-20-v-max-impact-drivers/",
-    "views": "1",
-    "categoryID": 6752,
-    "catetoryPath": [
-      8050,
-      5708,
-      5960,
-      6752
-    ],
-    "categoryURL": "/specialty-power-tool-parts-accessories/"
-  },
   null,
   {
     "pagePath": "/dewalt-xr-dcw210b-random-orbit-sander-tool-only-20-v/",
@@ -19586,17 +19636,6 @@
       6666
     ],
     "categoryURL": "/clog-busters/"
-  },
-  {
-    "pagePath": "/drills-drivers/",
-    "views": "1",
-    "categoryID": 5975,
-    "categoryPath": [
-      8050,
-      5708,
-      5975
-    ],
-    "categoryURL": "/drills-drivers/"
   },
   {
     "pagePath": "/dryer-vent-kits/",
@@ -20753,6 +20792,19 @@
       8008
     ],
     "categoryURL": "/medium-density-overlay-mdo-1/"
+  },
+  {
+    "pagePath": "/gray-metal-10-30-300-pipe-10-in-od-24-in-l-steel-galvanized/",
+    "views": "1",
+    "categoryID": 6944,
+    "catetoryPath": [
+      8050,
+      5703,
+      5788,
+      5999,
+      6944
+    ],
+    "categoryURL": "/chimney-pipes/"
   },
   {
     "pagePath": "/gray-metal-10-30-302-90-deg-adjustable-elbow-10-in-connection-30-ga-gauge-steel-galvanized/",

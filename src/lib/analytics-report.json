@@ -1,19 +1,19 @@
 [
   {
     "pagePath": "/search/",
-    "views": "6873"
+    "views": "6886"
   },
   {
     "pagePath": "/",
-    "views": "5755"
+    "views": "5756"
   },
   {
     "pagePath": "/sales-flyer/",
-    "views": "4847"
+    "views": "4849"
   },
   {
     "pagePath": "/products/",
-    "views": "1168"
+    "views": "1169"
   },
   {
     "pagePath": "/current-promotions/",
@@ -21,11 +21,11 @@
   },
   {
     "pagePath": "/heating-cooling-ventilation/",
-    "views": "631"
+    "views": "635"
   },
   {
     "pagePath": "/locations/",
-    "views": "608"
+    "views": "609"
   },
   {
     "pagePath": "/kitchen-bath/",
@@ -41,7 +41,7 @@
   },
   {
     "pagePath": "/contact-us/",
-    "views": "266"
+    "views": "267"
   },
   {
     "pagePath": "/lumber-and-panels/",
@@ -164,6 +164,10 @@
     "views": "78"
   },
   {
+    "pagePath": "/heaters/",
+    "views": "73"
+  },
+  {
     "pagePath": "/heating-cooling-loss/",
     "views": "72"
   },
@@ -189,10 +193,6 @@
   },
   {
     "pagePath": "/exterior-doors/",
-    "views": "63"
-  },
-  {
-    "pagePath": "/heaters/",
     "views": "63"
   },
   {
@@ -2816,6 +2816,10 @@
     "views": "3"
   },
   {
+    "pagePath": "/grilles-registers-diffusers/",
+    "views": "3"
+  },
+  {
     "pagePath": "/gutters-accessories/",
     "views": "3"
   },
@@ -3572,6 +3576,10 @@
     "views": "2"
   },
   {
+    "pagePath": "/b-k-133-102-shower-drain-with-stainless-steel-grid-pvc/",
+    "views": "2"
+  },
+  {
     "pagePath": "/b-k-proline-cp-12nlb-pipe-tee-1-4-in-compression-brass/",
     "views": "2"
   },
@@ -3784,6 +3792,10 @@
     "views": "2"
   },
   {
+    "pagePath": "/cordless-drills-drivers/",
+    "views": "2"
+  },
+  {
     "pagePath": "/crown-boiler-433031-ignition-electrode-kit/",
     "views": "2"
   },
@@ -3928,6 +3940,10 @@
     "views": "2"
   },
   {
+    "pagePath": "/dewalt-impact-connect-dwacprir-copper-pipe-cutter-attachment-cordless-plastic-for-dewalt-20-v-max-impact-drivers/",
+    "views": "2"
+  },
+  {
     "pagePath": "/discharge-hoses/",
     "views": "2"
   },
@@ -3941,6 +3957,10 @@
   },
   {
     "pagePath": "/drainage-hardware-repairs/",
+    "views": "2"
+  },
+  {
+    "pagePath": "/drills-drivers/",
     "views": "2"
   },
   {
@@ -4121,10 +4141,6 @@
   },
   {
     "pagePath": "/great-stuff-99allp3001-multi-purpose-caulk-white-24-hr-curing-41-to-104-deg-f-10-1-fl-oz-cartridge/",
-    "views": "2"
-  },
-  {
-    "pagePath": "/grilles-registers-diffusers/",
     "views": "2"
   },
   {
@@ -5640,6 +5656,10 @@
     "views": "1"
   },
   {
+    "pagePath": "/amerimax-t0506-contemporary-center-outlet-5-in-gutter-vinyl-white/",
+    "views": "1"
+  },
+  {
     "pagePath": "/amerimax-t1505-contemporary-gutter-connector-5-in-gutter-vinyl-brown/",
     "views": "1"
   },
@@ -5733,10 +5753,6 @@
   },
   {
     "pagePath": "/b-k-127-009-pop-up-drain-1-1-4-in-connection-brass-chrome/",
-    "views": "1"
-  },
-  {
-    "pagePath": "/b-k-133-102-shower-drain-with-stainless-steel-grid-pvc/",
     "views": "1"
   },
   {
@@ -5937,6 +5953,10 @@
   },
   {
     "pagePath": "/bell-gossett-189132lf-impeller-plastic-for-series-100-189132lf-106189-and-106197lf-circulating-pumps/",
+    "views": "1"
+  },
+  {
+    "pagePath": "/bell-gossett-hydrotrol-107035-flow-control-valve-brass/",
     "views": "1"
   },
   {
@@ -6284,10 +6304,6 @@
     "views": "1"
   },
   {
-    "pagePath": "/cordless-drills-drivers/",
-    "views": "1"
-  },
-  {
     "pagePath": "/cordless-hand-planers/",
     "views": "1"
   },
@@ -6385,6 +6401,10 @@
   },
   {
     "pagePath": "/danco-10520-aerator-adapter-15-16-27-x-55-64-27-in-male-brass-chrome-plated/",
+    "views": "1"
+  },
+  {
+    "pagePath": "/danco-10529-shower-drain-cover-plastic-stainless-steel-chrome-for-standard-3-in-stand-alone-shower-enclosures/",
     "views": "1"
   },
   {
@@ -6740,10 +6760,6 @@
     "views": "1"
   },
   {
-    "pagePath": "/dewalt-impact-connect-dwacprir-copper-pipe-cutter-attachment-cordless-plastic-for-dewalt-20-v-max-impact-drivers/",
-    "views": "1"
-  },
-  {
     "pagePath": "/dewalt-precision-point-series-dwfp12233-brad-nailer-100-magazine-glue-collation/",
     "views": "1"
   },
@@ -6845,10 +6861,6 @@
   },
   {
     "pagePath": "/drain-king-h34-drain-opener-cleaner-50-to-80-psi-pressure-3-to-4-in-drain/",
-    "views": "1"
-  },
-  {
-    "pagePath": "/drills-drivers/",
     "views": "1"
   },
   {
@@ -7253,6 +7265,10 @@
   },
   {
     "pagePath": "/grade-varies-medium-density-overlay-mdo-3-8-in-x-4-ft-x-8-ft-plain-surfaced-smooth/",
+    "views": "1"
+  },
+  {
+    "pagePath": "/gray-metal-10-30-300-pipe-10-in-od-24-in-l-steel-galvanized/",
     "views": "1"
   },
   {

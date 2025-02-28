@@ -1635,7 +1635,7 @@
                 }
               ],
               "url": "/heaters/",
-              "views": 123
+              "views": 133
             },
             {
               "id": 5792,
@@ -2063,7 +2063,7 @@
                 }
               ],
               "url": "/grilles-registers-diffusers/",
-              "views": 8
+              "views": 9
             },
             {
               "id": 5793,
@@ -2520,7 +2520,7 @@
             }
           ],
           "url": "/heating-cooling-ventilation/",
-          "views": 1556
+          "views": 1571
         },
         {
           "id": 5704,
@@ -13094,7 +13094,7 @@
                   ],
                   "children": [],
                   "url": "/cordless-drills-drivers/",
-                  "views": 1
+                  "views": 2
                 },
                 {
                   "id": 6794,
@@ -13154,7 +13154,7 @@
                 }
               ],
               "url": "/drills-drivers/",
-              "views": 2
+              "views": 4
             },
             {
               "id": 5976,
@@ -13837,7 +13837,7 @@
             }
           ],
           "url": "/power-tools-accessories/",
-          "views": 219
+          "views": 221
         },
         {
           "id": 5709,
@@ -34849,7 +34849,7 @@
         }
       ],
       "url": "/products/",
-      "views": 8742
+      "views": 8759
     }
   ],
   "meta": {}
