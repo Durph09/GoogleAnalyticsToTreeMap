@@ -19,7 +19,7 @@
           ],
           "children": [],
           "url": "/current-promotions/",
-          "views": 759
+          "views": 778
         },
         {
           "id": 5703,
@@ -180,11 +180,11 @@
                     }
                   ],
                   "url": "/air-conditioners/",
-                  "views": 11
+                  "views": 10
                 }
               ],
               "url": "/air-conditioners-coolers/",
-              "views": 31
+              "views": 29
             },
             {
               "id": 5785,
@@ -768,7 +768,8 @@
                         5999
                       ],
                       "children": [],
-                      "url": "/hunting-fishing-knives/"
+                      "url": "/hunting-fishing-knives/",
+                      "views": 1
                     },
                     {
                       "id": 8042,
@@ -817,7 +818,7 @@
                     }
                   ],
                   "url": "/chimney-pipe-accessories/",
-                  "views": 18
+                  "views": 20
                 },
                 {
                   "id": 6083,
@@ -1096,7 +1097,7 @@
                 }
               ],
               "url": "/fireplaces-stoves/",
-              "views": 63
+              "views": 64
             },
             {
               "id": 5786,
@@ -1305,11 +1306,11 @@
                       ],
                       "children": [],
                       "url": "/duct-reducers/",
-                      "views": 2
+                      "views": 3
                     }
                   ],
                   "url": "/duct-fittings/",
-                  "views": 25
+                  "views": 26
                 },
                 {
                   "id": 6139,
@@ -1397,8 +1398,7 @@
                         6044
                       ],
                       "children": [],
-                      "url": "/flexible-ducts/",
-                      "views": 2
+                      "url": "/flexible-ducts/"
                     },
                     {
                       "id": 7158,
@@ -1431,12 +1431,11 @@
                       "url": "/rigid-ducts/"
                     }
                   ],
-                  "url": "/ducts/",
-                  "views": 2
+                  "url": "/ducts/"
                 }
               ],
               "url": "/ducts-fittings/",
-              "views": 156
+              "views": 154
             },
             {
               "id": 5791,
@@ -1570,7 +1569,7 @@
                   ],
                   "children": [],
                   "url": "/kerosene-heaters/",
-                  "views": 5
+                  "views": 4
                 },
                 {
                   "id": 6097,
@@ -1636,7 +1635,7 @@
                 }
               ],
               "url": "/heaters/",
-              "views": 108
+              "views": 123
             },
             {
               "id": 5792,
@@ -1661,8 +1660,7 @@
                     5792
                   ],
                   "children": [],
-                  "url": "/firelogs-bricks/",
-                  "views": 1
+                  "url": "/firelogs-bricks/"
                 },
                 {
                   "id": 6358,
@@ -1695,7 +1693,7 @@
                 }
               ],
               "url": "/heating-fuel/",
-              "views": 14
+              "views": 10
             },
             {
               "id": 5789,
@@ -1721,7 +1719,7 @@
                   ],
                   "children": [],
                   "url": "/heat-pumps/",
-                  "views": 8
+                  "views": 7
                 },
                 {
                   "id": 6112,
@@ -1780,8 +1778,7 @@
                         6112
                       ],
                       "children": [],
-                      "url": "/lp-gas-conversion-kits/",
-                      "views": 1
+                      "url": "/lp-gas-conversion-kits/"
                     },
                     {
                       "id": 7055,
@@ -1797,7 +1794,7 @@
                       ],
                       "children": [],
                       "url": "/furnace-parts-accessories/",
-                      "views": 61
+                      "views": 57
                     },
                     {
                       "id": 7057,
@@ -1829,11 +1826,11 @@
                       ],
                       "children": [],
                       "url": "/furnace-igniters/",
-                      "views": 10
+                      "views": 13
                     }
                   ],
                   "url": "/furnace-accessories/",
-                  "views": 115
+                  "views": 120
                 },
                 {
                   "id": 6234,
@@ -1861,7 +1858,7 @@
                       ],
                       "children": [],
                       "url": "/gas-furnaces/",
-                      "views": 35
+                      "views": 32
                     },
                     {
                       "id": 7163,
@@ -1881,11 +1878,11 @@
                     }
                   ],
                   "url": "/furnaces/",
-                  "views": 105
+                  "views": 100
                 }
               ],
               "url": "/furnaces-accessories/",
-              "views": 461
+              "views": 463
             },
             {
               "id": 5795,
@@ -1915,7 +1912,7 @@
                 }
               ],
               "url": "/burners-ignitors/",
-              "views": 15
+              "views": 17
             },
             {
               "id": 5790,
@@ -2066,7 +2063,7 @@
                 }
               ],
               "url": "/grilles-registers-diffusers/",
-              "views": 11
+              "views": 8
             },
             {
               "id": 5793,
@@ -2434,7 +2431,8 @@
                         6034
                       ],
                       "children": [],
-                      "url": "/soffit-vents/"
+                      "url": "/soffit-vents/",
+                      "views": 1
                     },
                     {
                       "id": 7010,
@@ -2514,15 +2512,15 @@
                     }
                   ],
                   "url": "/roofing-attic-ventilation/",
-                  "views": 3
+                  "views": 4
                 }
               ],
               "url": "/ventilation/",
-              "views": 27
+              "views": 23
             }
           ],
           "url": "/heating-cooling-ventilation/",
-          "views": 1567
+          "views": 1556
         },
         {
           "id": 5704,
@@ -3131,7 +3129,7 @@
                     }
                   ],
                   "url": "/panel-boxes-disconnects-meters-switches/",
-                  "views": 26
+                  "views": 28
                 },
                 {
                   "id": 6048,
@@ -3150,7 +3148,7 @@
                 }
               ],
               "url": "/circuit-breakers-panel-boxes/",
-              "views": 79
+              "views": 86
             },
             {
               "id": 5766,
@@ -3511,7 +3509,7 @@
                 }
               ],
               "url": "/conduit-conduit-fittings/",
-              "views": 37
+              "views": 38
             },
             {
               "id": 5767,
@@ -3596,7 +3594,7 @@
                 }
               ],
               "url": "/dimmers-lighting-controls/",
-              "views": 6
+              "views": 3
             },
             {
               "id": 5768,
@@ -3664,7 +3662,8 @@
                     5768
                   ],
                   "children": [],
-                  "url": "/electrical-box-mounting-hardware/"
+                  "url": "/electrical-box-mounting-hardware/",
+                  "views": 1
                 },
                 {
                   "id": 6429,
@@ -3708,7 +3707,7 @@
                   ],
                   "children": [],
                   "url": "/outlet-boxes/",
-                  "views": 1
+                  "views": 3
                 },
                 {
                   "id": 6386,
@@ -3812,7 +3811,7 @@
                 }
               ],
               "url": "/electrical-boxes/",
-              "views": 13
+              "views": 17
             },
             {
               "id": 5769,
@@ -4090,7 +4089,7 @@
                 }
               ],
               "url": "/electrical-connectors/",
-              "views": 10
+              "views": 19
             },
             {
               "id": 5770,
@@ -4548,7 +4547,8 @@
                   "url": "/security-systems/"
                 }
               ],
-              "url": "/home-automation-security-systems/"
+              "url": "/home-automation-security-systems/",
+              "views": 1
             },
             {
               "id": 5773,
@@ -4802,7 +4802,7 @@
                 }
               ],
               "url": "/switches/",
-              "views": 13
+              "views": 12
             },
             {
               "id": 5776,
@@ -5216,7 +5216,7 @@
             }
           ],
           "url": "/electrical/",
-          "views": 394
+          "views": 411
         },
         {
           "id": 5705,
@@ -5372,7 +5372,7 @@
                 }
               ],
               "url": "/exterior-drain-components/",
-              "views": 24
+              "views": 15
             },
             {
               "id": 5852,
@@ -5431,7 +5431,7 @@
                 }
               ],
               "url": "/gas-supply-lines-fitting/",
-              "views": 8
+              "views": 9
             },
             {
               "id": 5855,
@@ -5803,8 +5803,7 @@
                         6494
                       ],
                       "children": [],
-                      "url": "/brass-pipe-adapters/",
-                      "views": 1
+                      "url": "/brass-pipe-adapters/"
                     },
                     {
                       "id": 7481,
@@ -5849,8 +5848,7 @@
                         6494
                       ],
                       "children": [],
-                      "url": "/brass-pipe-couplings/",
-                      "views": 4
+                      "url": "/brass-pipe-couplings/"
                     },
                     {
                       "id": 7972,
@@ -5975,7 +5973,7 @@
                     }
                   ],
                   "url": "/brass-pipe-fittings/",
-                  "views": 9
+                  "views": 2
                 },
                 {
                   "id": 6496,
@@ -6257,8 +6255,7 @@
                         6575
                       ],
                       "children": [],
-                      "url": "/copper-pipe-couplings/",
-                      "views": 4
+                      "url": "/copper-pipe-couplings/"
                     },
                     {
                       "id": 7729,
@@ -6307,7 +6304,7 @@
                     }
                   ],
                   "url": "/copper-pipe-fittings/",
-                  "views": 9
+                  "views": 1
                 },
                 {
                   "id": 6547,
@@ -6429,7 +6426,7 @@
                     }
                   ],
                   "url": "/cpvc-pipe-fittings/",
-                  "views": 6
+                  "views": 5
                 },
                 {
                   "id": 6563,
@@ -6718,7 +6715,7 @@
                     }
                   ],
                   "url": "/pex-pipe-fittings/",
-                  "views": 14
+                  "views": 16
                 },
                 {
                   "id": 6669,
@@ -7281,7 +7278,7 @@
                     }
                   ],
                   "url": "/pvc-dwv-pipe-fittings/",
-                  "views": 9
+                  "views": 8
                 },
                 {
                   "id": 6502,
@@ -7433,7 +7430,7 @@
                     }
                   ],
                   "url": "/pvc-pressure-pipe-fittings/",
-                  "views": 4
+                  "views": 3
                 },
                 {
                   "id": 6614,
@@ -7513,7 +7510,7 @@
                 }
               ],
               "url": "/pipe-fittings/",
-              "views": 155
+              "views": 136
             },
             {
               "id": 5856,
@@ -7596,10 +7593,12 @@
                     5853
                   ],
                   "children": [],
-                  "url": "/discharge-hoses/"
+                  "url": "/discharge-hoses/",
+                  "views": 2
                 }
               ],
-              "url": "/hoses/"
+              "url": "/hoses/",
+              "views": 2
             },
             {
               "id": 5854,
@@ -7764,11 +7763,11 @@
                       ],
                       "children": [],
                       "url": "/pvc-pressure-pipe/",
-                      "views": 3
+                      "views": 2
                     }
                   ],
                   "url": "/pipe/",
-                  "views": 39
+                  "views": 34
                 },
                 {
                   "id": 6513,
@@ -7880,7 +7879,7 @@
                 }
               ],
               "url": "/pipe-tubing/",
-              "views": 116
+              "views": 113
             },
             {
               "id": 5857,
@@ -8179,7 +8178,7 @@
                   ],
                   "children": [],
                   "url": "/pump-switches/",
-                  "views": 12
+                  "views": 8
                 },
                 {
                   "id": 6839,
@@ -8270,7 +8269,7 @@
                 }
               ],
               "url": "/pump-tank-accessories/",
-              "views": 79
+              "views": 82
             },
             {
               "id": 5859,
@@ -8447,11 +8446,11 @@
                       ],
                       "children": [],
                       "url": "/well-jet-pumps/",
-                      "views": 13
+                      "views": 16
                     }
                   ],
                   "url": "/pumps/",
-                  "views": 28
+                  "views": 33
                 },
                 {
                   "id": 6598,
@@ -8510,15 +8509,15 @@
                       ],
                       "children": [],
                       "url": "/water-tanks/",
-                      "views": 3
+                      "views": 2
                     }
                   ],
                   "url": "/tanks/",
-                  "views": 25
+                  "views": 24
                 }
               ],
               "url": "/pump-tanks/",
-              "views": 90
+              "views": 121
             },
             {
               "id": 5860,
@@ -8717,7 +8716,7 @@
                 }
               ],
               "url": "/supply-lines-fittings/",
-              "views": 19
+              "views": 17
             },
             {
               "id": 5862,
@@ -8994,7 +8993,7 @@
                 }
               ],
               "url": "/valves/",
-              "views": 47
+              "views": 48
             },
             {
               "id": 5864,
@@ -9065,7 +9064,7 @@
                       ],
                       "children": [],
                       "url": "/electric-tank-water-heaters/",
-                      "views": 29
+                      "views": 31
                     },
                     {
                       "id": 7466,
@@ -9085,7 +9084,7 @@
                     }
                   ],
                   "url": "/tank-water-heaters/",
-                  "views": 70
+                  "views": 71
                 },
                 {
                   "id": 6553,
@@ -9206,7 +9205,7 @@
                       ],
                       "children": [],
                       "url": "/water-heater-parts-accessories/",
-                      "views": 22
+                      "views": 19
                     },
                     {
                       "id": 7907,
@@ -9226,15 +9225,15 @@
                     }
                   ],
                   "url": "/water-heater-accessories/",
-                  "views": 31
+                  "views": 28
                 }
               ],
               "url": "/water-heaters/",
-              "views": 228
+              "views": 232
             }
           ],
           "url": "/plumbing/",
-          "views": 1143
+          "views": 1163
         },
         {
           "id": 5706,
@@ -9270,7 +9269,7 @@
                   ],
                   "children": [],
                   "url": "/specialty-bath-hardware/",
-                  "views": 2
+                  "views": 1
                 },
                 {
                   "id": 6302,
@@ -9331,7 +9330,7 @@
                 }
               ],
               "url": "/bathroom-hardware/",
-              "views": 15
+              "views": 9
             },
             {
               "id": 5918,
@@ -9416,7 +9415,7 @@
                 }
               ],
               "url": "/bathroom-vanities/",
-              "views": 223
+              "views": 231
             },
             {
               "id": 5917,
@@ -9504,7 +9503,7 @@
                   ],
                   "children": [],
                   "url": "/bathtubs/",
-                  "views": 18
+                  "views": 19
                 },
                 {
                   "id": 6312,
@@ -9519,7 +9518,7 @@
                   ],
                   "children": [],
                   "url": "/tub-shower-combos/",
-                  "views": 24
+                  "views": 22
                 },
                 {
                   "id": 5991,
@@ -9655,7 +9654,7 @@
                       ],
                       "children": [],
                       "url": "/specialty-shower-bathtub-accessories/",
-                      "views": 7
+                      "views": 8
                     },
                     {
                       "id": 7142,
@@ -9675,7 +9674,7 @@
                     }
                   ],
                   "url": "/bathtub-shower-accessories/",
-                  "views": 22
+                  "views": 23
                 },
                 {
                   "id": 6122,
@@ -9796,7 +9795,7 @@
                       ],
                       "children": [],
                       "url": "/shower-walls-panels/",
-                      "views": 8
+                      "views": 7
                     },
                     {
                       "id": 7137,
@@ -9812,7 +9811,7 @@
                       ],
                       "children": [],
                       "url": "/bathtub-walls-surrounds/",
-                      "views": 5
+                      "views": 4
                     },
                     {
                       "id": 7145,
@@ -9828,11 +9827,11 @@
                       ],
                       "children": [],
                       "url": "/shower-stalls/",
-                      "views": 17
+                      "views": 25
                     }
                   ],
                   "url": "/shower-enclosures-walls/",
-                  "views": 139
+                  "views": 141
                 },
                 {
                   "id": 6081,
@@ -9874,8 +9873,7 @@
                         6081
                       ],
                       "children": [],
-                      "url": "/showerhead-accessories/",
-                      "views": 1
+                      "url": "/showerhead-accessories/"
                     },
                     {
                       "id": 7016,
@@ -9909,11 +9907,11 @@
                     }
                   ],
                   "url": "/showers-showerheads/",
-                  "views": 11
+                  "views": 9
                 }
               ],
               "url": "/bathtubs-showers/",
-              "views": 539
+              "views": 520
             },
             {
               "id": 5921,
@@ -10209,7 +10207,7 @@
                     }
                   ],
                   "url": "/kitchen-faucets/",
-                  "views": 23
+                  "views": 21
                 },
                 {
                   "id": 6008,
@@ -10591,7 +10589,7 @@
                     }
                   ],
                   "url": "/bathtub-shower-faucets/",
-                  "views": 17
+                  "views": 15
                 },
                 {
                   "id": 6103,
@@ -10657,7 +10655,7 @@
                 }
               ],
               "url": "/faucets-faucet-accessories/",
-              "views": 174
+              "views": 166
             },
             {
               "id": 5922,
@@ -10683,7 +10681,7 @@
                   ],
                   "children": [],
                   "url": "/kitchen-countertop-accessories/",
-                  "views": 5
+                  "views": 6
                 },
                 {
                   "id": 6318,
@@ -10713,11 +10711,11 @@
                   ],
                   "children": [],
                   "url": "/kitchen-countertop-laminate-sheets/",
-                  "views": 7
+                  "views": 8
                 }
               ],
               "url": "/kitchen-countertops/",
-              "views": 173
+              "views": 170
             },
             {
               "id": 5923,
@@ -10774,11 +10772,11 @@
                     }
                   ],
                   "url": "/kitchen-gadgets-tools/",
-                  "views": 2
+                  "views": 1
                 }
               ],
               "url": "/kitchenware/",
-              "views": 26
+              "views": 22
             },
             {
               "id": 5924,
@@ -11101,7 +11099,7 @@
                 }
               ],
               "url": "/sinks-sink-accessories/",
-              "views": 121
+              "views": 119
             },
             {
               "id": 5925,
@@ -11262,11 +11260,11 @@
                     }
                   ],
                   "url": "/toilets/",
-                  "views": 38
+                  "views": 42
                 }
               ],
               "url": "/toilet-urinals/",
-              "views": 81
+              "views": 82
             },
             {
               "id": 5926,
@@ -11321,7 +11319,7 @@
                   ],
                   "children": [],
                   "url": "/toilet-flanges/",
-                  "views": 2
+                  "views": 3
                 },
                 {
                   "id": 6328,
@@ -11490,11 +11488,11 @@
                 }
               ],
               "url": "/toilet-repair/",
-              "views": 20
+              "views": 21
             }
           ],
           "url": "/kitchen-bath/",
-          "views": 1849
+          "views": 1801
         },
         {
           "id": 5707,
@@ -11518,7 +11516,7 @@
               ],
               "children": [],
               "url": "/pressure-treated-lumber/",
-              "views": 80
+              "views": 86
             },
             {
               "id": 5824,
@@ -11616,8 +11614,7 @@
                         6652
                       ],
                       "children": [],
-                      "url": "/2-x-12/",
-                      "views": 2
+                      "url": "/2-x-12/"
                     },
                     {
                       "id": 7833,
@@ -11698,7 +11695,7 @@
                     }
                   ],
                   "url": "/dimensional-lumber/",
-                  "views": 38
+                  "views": 36
                 },
                 {
                   "id": 6651,
@@ -11803,7 +11800,7 @@
                       ],
                       "children": [],
                       "url": "/hardwood-lumber/",
-                      "views": 2
+                      "views": 1
                     },
                     {
                       "id": 7801,
@@ -11819,11 +11816,11 @@
                       ],
                       "children": [],
                       "url": "/softwood-lumber/",
-                      "views": 4
+                      "views": 9
                     }
                   ],
                   "url": "/finish-lumber/",
-                  "views": 21
+                  "views": 25
                 },
                 {
                   "id": 6635,
@@ -11881,7 +11878,8 @@
                         6653
                       ],
                       "children": [],
-                      "url": "/fence-pickets/"
+                      "url": "/fence-pickets/",
+                      "views": 2
                     },
                     {
                       "id": 8011,
@@ -11915,7 +11913,7 @@
                     }
                   ],
                   "url": "/wood-fencing/",
-                  "views": 2
+                  "views": 4
                 },
                 {
                   "id": 6911,
@@ -11934,7 +11932,7 @@
                 }
               ],
               "url": "/lumber/",
-              "views": 201
+              "views": 214
             },
             {
               "id": 5830,
@@ -12098,7 +12096,7 @@
                     }
                   ],
                   "url": "/plywood/",
-                  "views": 39
+                  "views": 40
                 },
                 {
                   "id": 6912,
@@ -12117,11 +12115,11 @@
                 }
               ],
               "url": "/sheet-goods/",
-              "views": 126
+              "views": 115
             }
           ],
           "url": "/lumber-and-panels/",
-          "views": 696
+          "views": 664
         },
         {
           "id": 5708,
@@ -13839,7 +13837,7 @@
             }
           ],
           "url": "/power-tools-accessories/",
-          "views": 220
+          "views": 219
         },
         {
           "id": 5709,
@@ -14366,8 +14364,7 @@
                   "url": "/snow-blower-parts-accessories/"
                 }
               ],
-              "url": "/snow-blowers/",
-              "views": 1
+              "url": "/snow-blowers/"
             },
             {
               "id": 5945,
@@ -14513,7 +14510,7 @@
             }
           ],
           "url": "/outdoor-power-equipment/",
-          "views": 27
+          "views": 24
         },
         {
           "id": 5710,
@@ -14764,7 +14761,7 @@
                       ],
                       "children": [],
                       "url": "/knives/",
-                      "views": 4
+                      "views": 7
                     },
                     {
                       "id": 7788,
@@ -14843,7 +14840,7 @@
                     }
                   ],
                   "url": "/cutting-tools/",
-                  "views": 10
+                  "views": 13
                 },
                 {
                   "id": 6736,
@@ -16006,7 +16003,7 @@
                 }
               ],
               "url": "/hand-tools/",
-              "views": 42
+              "views": 45
             },
             {
               "id": 5957,
@@ -16434,7 +16431,8 @@
                         6518
                       ],
                       "children": [],
-                      "url": "/tape-measures/"
+                      "url": "/tape-measures/",
+                      "views": 1
                     },
                     {
                       "id": 7958,
@@ -16452,7 +16450,8 @@
                       "url": "/thermometers/"
                     }
                   ],
-                  "url": "/measuring-tools/"
+                  "url": "/measuring-tools/",
+                  "views": 1
                 },
                 {
                   "id": 6634,
@@ -16577,7 +16576,7 @@
                 }
               ],
               "url": "/measuring-marking/",
-              "views": 2
+              "views": 3
             },
             {
               "id": 5958,
@@ -18325,7 +18324,8 @@
                         6561
                       ],
                       "children": [],
-                      "url": "/brazing-soldering-torches-kits/"
+                      "url": "/brazing-soldering-torches-kits/",
+                      "views": 2
                     },
                     {
                       "id": 7585,
@@ -18373,7 +18373,8 @@
                       "url": "/soldering-iron-torch-kits/"
                     }
                   ],
-                  "url": "/soldering-tools/"
+                  "url": "/soldering-tools/",
+                  "views": 2
                 },
                 {
                   "id": 6631,
@@ -18484,11 +18485,11 @@
                 }
               ],
               "url": "/welding-soldering/",
-              "views": 3
+              "views": 5
             }
           ],
           "url": "/tools/",
-          "views": 181
+          "views": 187
         },
         {
           "id": 5711,
@@ -18962,7 +18963,7 @@
                       ],
                       "children": [],
                       "url": "/rebar-remesh/",
-                      "views": 1
+                      "views": 2
                     },
                     {
                       "id": 7419,
@@ -19012,7 +19013,7 @@
                     }
                   ],
                   "url": "/rebar-accessories/",
-                  "views": 4
+                  "views": 7
                 },
                 {
                   "id": 6217,
@@ -19031,7 +19032,7 @@
                 }
               ],
               "url": "/concrete-masonry/",
-              "views": 48
+              "views": 49
             },
             {
               "id": 5758,
@@ -19424,8 +19425,7 @@
                         5995
                       ],
                       "children": [],
-                      "url": "/grout-removal-tools/",
-                      "views": 1
+                      "url": "/grout-removal-tools/"
                     },
                     {
                       "id": 6946,
@@ -19473,8 +19473,7 @@
                       "url": "/boat-motor-accessories/"
                     }
                   ],
-                  "url": "/ladders/",
-                  "views": 1
+                  "url": "/ladders/"
                 },
                 {
                   "id": 6235,
@@ -19553,7 +19552,7 @@
                 }
               ],
               "url": "/ladders-scaffolding/",
-              "views": 3
+              "views": 2
             },
             {
               "id": 5870,
@@ -19645,7 +19644,7 @@
               ],
               "children": [],
               "url": "/steel-studs-framing/",
-              "views": 8
+              "views": 7
             },
             {
               "id": 5872,
@@ -19670,12 +19669,11 @@
                     5872
                   ],
                   "children": [],
-                  "url": "/wall-panels/",
-                  "views": 2
+                  "url": "/wall-panels/"
                 }
               ],
               "url": "/wall-panels-planks/",
-              "views": 13
+              "views": 8
             },
             {
               "id": 5873,
@@ -19722,7 +19720,7 @@
             }
           ],
           "url": "/building-materials/",
-          "views": 257
+          "views": 240
         },
         {
           "id": 5712,
@@ -19845,7 +19843,7 @@
                   ],
                   "children": [],
                   "url": "/composite-decking-boards/",
-                  "views": 9
+                  "views": 11
                 },
                 {
                   "id": 6239,
@@ -19878,7 +19876,7 @@
                 }
               ],
               "url": "/deck-boards/",
-              "views": 26
+              "views": 31
             },
             {
               "id": 5821,
@@ -20019,16 +20017,15 @@
                     5823
                   ],
                   "children": [],
-                  "url": "/deck-fittings-accessories/",
-                  "views": 1
+                  "url": "/deck-fittings-accessories/"
                 }
               ],
               "url": "/decking-accessories/",
-              "views": 3
+              "views": 2
             }
           ],
           "url": "/decking/",
-          "views": 113
+          "views": 127
         },
         {
           "id": 5713,
@@ -20162,7 +20159,7 @@
               ],
               "children": [],
               "url": "/radiant-barrier-insulation/",
-              "views": 10
+              "views": 11
             },
             {
               "id": 5805,
@@ -20176,7 +20173,7 @@
               ],
               "children": [],
               "url": "/rigid-foam-insulation/",
-              "views": 9
+              "views": 10
             },
             {
               "id": 5806,
@@ -20204,7 +20201,7 @@
               ],
               "children": [],
               "url": "/spray-foam-insulation/",
-              "views": 2
+              "views": 3
             },
             {
               "id": 5808,
@@ -20221,7 +20218,7 @@
             }
           ],
           "url": "/insulation-accessories/",
-          "views": 158
+          "views": 169
         },
         {
           "id": 5714,
@@ -20545,7 +20542,7 @@
                 }
               ],
               "url": "/roofing/",
-              "views": 36
+              "views": 37
             },
             {
               "id": 5869,
@@ -20563,7 +20560,7 @@
             }
           ],
           "url": "/roofing-accessories/",
-          "views": 108
+          "views": 123
         },
         {
           "id": 5715,
@@ -20601,7 +20598,7 @@
               ],
               "children": [],
               "url": "/vinyl-exterior-siding/",
-              "views": 11
+              "views": 12
             },
             {
               "id": 5827,
@@ -20642,11 +20639,11 @@
               ],
               "children": [],
               "url": "/siding-trim/",
-              "views": 7
+              "views": 9
             }
           ],
           "url": "/siding/",
-          "views": 75
+          "views": 79
         },
         {
           "id": 5716,
@@ -20696,7 +20693,7 @@
                   ],
                   "children": [],
                   "url": "/front-entry-doors/",
-                  "views": 17
+                  "views": 16
                 },
                 {
                   "id": 6179,
@@ -20711,7 +20708,7 @@
                   ],
                   "children": [],
                   "url": "/screen-storm-doors/",
-                  "views": 9
+                  "views": 10
                 },
                 {
                   "id": 6218,
@@ -20726,7 +20723,7 @@
                   ],
                   "children": [],
                   "url": "/cellar-doors/",
-                  "views": 5
+                  "views": 3
                 },
                 {
                   "id": 6220,
@@ -20745,11 +20742,11 @@
                 }
               ],
               "url": "/exterior-doors/",
-              "views": 102
+              "views": 93
             }
           ],
           "url": "/doors-windows/",
-          "views": 294
+          "views": 282
         },
         {
           "id": 5717,
@@ -20942,8 +20939,7 @@
                         6504
                       ],
                       "children": [],
-                      "url": "/frp-panel-adhesives/",
-                      "views": 1
+                      "url": "/frp-panel-adhesives/"
                     },
                     {
                       "id": 7491,
@@ -20992,7 +20988,7 @@
                     }
                   ],
                   "url": "/construction-adhesives/",
-                  "views": 3
+                  "views": 2
                 },
                 {
                   "id": 6562,
@@ -21122,7 +21118,7 @@
                 }
               ],
               "url": "/adhesives-accessories/",
-              "views": 3
+              "views": 2
             },
             {
               "id": 5836,
@@ -22476,7 +22472,7 @@
                 }
               ],
               "url": "/spray-paint-specialty-paint/",
-              "views": 10
+              "views": 11
             },
             {
               "id": 5845,
@@ -22810,8 +22806,7 @@
                     5846
                   ],
                   "children": [],
-                  "url": "/foil-hvac-tape/",
-                  "views": 1
+                  "url": "/foil-hvac-tape/"
                 },
                 {
                   "id": 6551,
@@ -22898,8 +22893,7 @@
                   "url": "/transparent-tape/"
                 }
               ],
-              "url": "/tape/",
-              "views": 1
+              "url": "/tape/"
             },
             {
               "id": 5847,
@@ -22924,8 +22918,7 @@
                     5847
                   ],
                   "children": [],
-                  "url": "/wallpaper-pastes/",
-                  "views": 1
+                  "url": "/wallpaper-pastes/"
                 },
                 {
                   "id": 6808,
@@ -22956,8 +22949,7 @@
                   "url": "/wallpaper-tools/"
                 }
               ],
-              "url": "/wallpaper-tools-accessories/",
-              "views": 1
+              "url": "/wallpaper-tools-accessories/"
             },
             {
               "id": 5848,
@@ -23049,7 +23041,7 @@
             }
           ],
           "url": "/paint/",
-          "views": 72
+          "views": 70
         },
         {
           "id": 5718,
@@ -23073,7 +23065,7 @@
               ],
               "children": [],
               "url": "/backer-boards/",
-              "views": 2
+              "views": 1
             },
             {
               "id": 5760,
@@ -23119,7 +23111,7 @@
             }
           ],
           "url": "/drywall-supplies/",
-          "views": 71
+          "views": 70
         },
         {
           "id": 5719,
@@ -23738,7 +23730,7 @@
             }
           ],
           "url": "/fasteners/",
-          "views": 25
+          "views": 24
         },
         {
           "id": 5720,
@@ -25030,7 +25022,7 @@
                       ],
                       "children": [],
                       "url": "/specialty-door-accessories/",
-                      "views": 5
+                      "views": 4
                     },
                     {
                       "id": 7017,
@@ -25154,7 +25146,7 @@
                     }
                   ],
                   "url": "/door-accessories/",
-                  "views": 8
+                  "views": 7
                 },
                 {
                   "id": 6006,
@@ -25428,7 +25420,7 @@
                 }
               ],
               "url": "/door-window-hardware/",
-              "views": 22
+              "views": 21
             },
             {
               "id": 5886,
@@ -26695,7 +26687,7 @@
             }
           ],
           "url": "/hardware/",
-          "views": 78
+          "views": 77
         },
         {
           "id": 5721,
@@ -26723,7 +26715,7 @@
             }
           ],
           "url": "/ceilings/",
-          "views": 19
+          "views": 18
         },
         {
           "id": 5722,
@@ -27302,8 +27294,7 @@
                         6003
                       ],
                       "children": [],
-                      "url": "/floor-cleaners/",
-                      "views": 1
+                      "url": "/floor-cleaners/"
                     },
                     {
                       "id": 8025,
@@ -27321,12 +27312,11 @@
                       "url": "/whole-house-water-systems/"
                     }
                   ],
-                  "url": "/floor-cleaning-chemicals/",
-                  "views": 1
+                  "url": "/floor-cleaning-chemicals/"
                 }
               ],
               "url": "/cleaning-chemicals-accessories/",
-              "views": 7
+              "views": 6
             },
             {
               "id": 5876,
@@ -27821,7 +27811,7 @@
                     }
                   ],
                   "url": "/vacuum-floor-equipment-accessories/",
-                  "views": 4
+                  "views": 2
                 },
                 {
                   "id": 6029,
@@ -27900,11 +27890,11 @@
                 }
               ],
               "url": "/vacuums-floor-equipment/",
-              "views": 9
+              "views": 4
             }
           ],
           "url": "/cleaning/",
-          "views": 50
+          "views": 42
         },
         {
           "id": 5723,
@@ -28055,7 +28045,7 @@
                   ],
                   "children": [],
                   "url": "/door-window-moulding/",
-                  "views": 4
+                  "views": 5
                 },
                 {
                   "id": 6843,
@@ -28116,11 +28106,11 @@
                 }
               ],
               "url": "/mouldings/",
-              "views": 38
+              "views": 40
             }
           ],
           "url": "/moulding-millwork/",
-          "views": 80
+          "views": 83
         },
         {
           "id": 5724,
@@ -28215,7 +28205,7 @@
                 }
               ],
               "url": "/floor-moulding-trim/",
-              "views": 7
+              "views": 8
             },
             {
               "id": 5906,
@@ -28402,7 +28392,7 @@
                 }
               ],
               "url": "/vinyl-flooring/",
-              "views": 28
+              "views": 27
             },
             {
               "id": 5911,
@@ -28432,11 +28422,11 @@
                 }
               ],
               "url": "/wood-flooring/",
-              "views": 5
+              "views": 6
             }
           ],
           "url": "/flooring/",
-          "views": 100
+          "views": 95
         },
         {
           "id": 5725,
@@ -28647,11 +28637,12 @@
                       "url": "/clothesline-hooks/"
                     }
                   ],
-                  "url": "/clothesline-accessories/"
+                  "url": "/clothesline-accessories/",
+                  "views": 1
                 }
               ],
               "url": "/laundry-storage-organizers/",
-              "views": 1
+              "views": 3
             },
             {
               "id": 5954,
@@ -28681,11 +28672,11 @@
                 }
               ],
               "url": "/sheds-garages-outdoor-storage/",
-              "views": 5
+              "views": 6
             }
           ],
           "url": "/storage-organization/",
-          "views": 20
+          "views": 27
         },
         {
           "id": 5726,
@@ -28857,7 +28848,7 @@
                 }
               ],
               "url": "/ceiling-fans-accessories/",
-              "views": 7
+              "views": 5
             },
             {
               "id": 5813,
@@ -28924,10 +28915,12 @@
                     5813
                   ],
                   "children": [],
-                  "url": "/spotlights/"
+                  "url": "/spotlights/",
+                  "views": 1
                 }
               ],
-              "url": "/flashlights-lanterns/"
+              "url": "/flashlights-lanterns/",
+              "views": 1
             },
             {
               "id": 5814,
@@ -29128,7 +29121,8 @@
                         6648
                       ],
                       "children": [],
-                      "url": "/outdoor-lanterns-sconces/"
+                      "url": "/outdoor-lanterns-sconces/",
+                      "views": 1
                     },
                     {
                       "id": 7839,
@@ -29161,7 +29155,8 @@
                       "url": "/vapor-tight-fixtures/"
                     }
                   ],
-                  "url": "/exterior-household-light-fixtures/"
+                  "url": "/exterior-household-light-fixtures/",
+                  "views": 1
                 },
                 {
                   "id": 6848,
@@ -29407,7 +29402,7 @@
                   ],
                   "children": [],
                   "url": "/shop-lights/",
-                  "views": 3
+                  "views": 4
                 },
                 {
                   "id": 6773,
@@ -29440,7 +29435,7 @@
                 }
               ],
               "url": "/light-fixtures/",
-              "views": 54
+              "views": 56
             },
             {
               "id": 5817,
@@ -29720,11 +29715,11 @@
                 }
               ],
               "url": "/work-portable-temporary-lighting/",
-              "views": 2
+              "views": 1
             }
           ],
           "url": "/lighting-ceiling-fans/",
-          "views": 109
+          "views": 118
         },
         {
           "id": 5727,
@@ -29862,8 +29857,7 @@
                   "url": "/firewood-starters/"
                 }
               ],
-              "url": "/fire-pits-patio-heaters/",
-              "views": 1
+              "url": "/fire-pits-patio-heaters/"
             },
             {
               "id": 5928,
@@ -30037,12 +30031,10 @@
                       "url": "/propane-tank-regulators-with-hoses/"
                     }
                   ],
-                  "url": "/propane-tanks-accessories/",
-                  "views": 3
+                  "url": "/propane-tanks-accessories/"
                 }
               ],
-              "url": "/grilling-outdoor-cooking/",
-              "views": 4
+              "url": "/grilling-outdoor-cooking/"
             },
             {
               "id": 5929,
@@ -30116,7 +30108,8 @@
                   "url": "/pool-cleaning-maintenance/"
                 }
               ],
-              "url": "/pools-spas-saunas/"
+              "url": "/pools-spas-saunas/",
+              "views": 1
             },
             {
               "id": 5938,
@@ -30294,7 +30287,7 @@
             }
           ],
           "url": "/grilling-outdoor-living/",
-          "views": 16
+          "views": 8
         },
         {
           "id": 5728,
@@ -30554,8 +30547,7 @@
                     5741
                   ],
                   "children": [],
-                  "url": "/appliance-supply-boxes-accessories/",
-                  "views": 1
+                  "url": "/appliance-supply-boxes-accessories/"
                 },
                 {
                   "id": 6125,
@@ -30617,7 +30609,7 @@
                     }
                   ],
                   "url": "/washer-dryer-accessories/",
-                  "views": 4
+                  "views": 6
                 }
               ],
               "url": "/major-appliance-parts-accessories/",
@@ -30735,11 +30727,11 @@
                       ],
                       "children": [],
                       "url": "/water-filter-housings/",
-                      "views": 3
+                      "views": 2
                     }
                   ],
                   "url": "/water-filters-accessories/",
-                  "views": 18
+                  "views": 16
                 },
                 {
                   "id": 6128,
@@ -30835,11 +30827,11 @@
                 }
               ],
               "url": "/water-systems/",
-              "views": 64
+              "views": 61
             }
           ],
           "url": "/appliances/",
-          "views": 144
+          "views": 135
         },
         {
           "id": 5729,
@@ -31178,8 +31170,7 @@
                   "url": "/gardening-bags-totes/"
                 }
               ],
-              "url": "/garden-supplies/",
-              "views": 3
+              "url": "/garden-supplies/"
             },
             {
               "id": 5935,
@@ -31324,8 +31315,7 @@
                     5935
                   ],
                   "children": [],
-                  "url": "/hand-trucks/",
-                  "views": 1
+                  "url": "/hand-trucks/"
                 },
                 {
                   "id": 6523,
@@ -31794,7 +31784,7 @@
                 }
               ],
               "url": "/lawn-garden-hand-tools/",
-              "views": 51
+              "views": 50
             },
             {
               "id": 5936,
@@ -31954,8 +31944,7 @@
                     5936
                   ],
                   "children": [],
-                  "url": "/landscape-fabric-accessories/",
-                  "views": 2
+                  "url": "/landscape-fabric-accessories/"
                 },
                 {
                   "id": 6533,
@@ -31985,8 +31974,7 @@
                       "url": "/mulch-with-weed-preventer/"
                     }
                   ],
-                  "url": "/lawn-fertilizer-bagged-goods/",
-                  "views": 1
+                  "url": "/lawn-fertilizer-bagged-goods/"
                 },
                 {
                   "id": 6689,
@@ -32169,8 +32157,7 @@
                   "url": "/sprayers/"
                 }
               ],
-              "url": "/lawn-plant-care/",
-              "views": 6
+              "url": "/lawn-plant-care/"
             },
             {
               "id": 5950,
@@ -32438,8 +32425,7 @@
                       "url": "/garden-hoses/"
                     }
                   ],
-                  "url": "/watering-irrigation-hoses/",
-                  "views": 1
+                  "url": "/watering-irrigation-hoses/"
                 },
                 {
                   "id": 6822,
@@ -32488,11 +32474,11 @@
                 }
               ],
               "url": "/watering-irrigation/",
-              "views": 9
+              "views": 6
             }
           ],
           "url": "/lawn-garden/",
-          "views": 105
+          "views": 84
         },
         {
           "id": 5730,
@@ -33685,7 +33671,7 @@
             }
           ],
           "url": "/automotive/",
-          "views": 24
+          "views": 23
         },
         {
           "id": 5732,
@@ -34610,7 +34596,7 @@
             }
           ],
           "url": "/home-goods-decor/",
-          "views": 28
+          "views": 29
         },
         {
           "id": 5733,
@@ -34863,7 +34849,7 @@
         }
       ],
       "url": "/products/",
-      "views": 8798
+      "views": 8742
     }
   ],
   "meta": {}

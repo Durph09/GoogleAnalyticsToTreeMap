@@ -3,10 +3,10 @@ import fs from 'fs/promises';
 import path from 'path';
 
 const svgFilePath = path.join(
-  'G:\\user\\Conor\\big_commerce\\function-modules\\utils\\category-tree-map.svg'
+  'src/lib/category-tree-map.svg'
 );
 const outputFilePath = path.join(
-  'G:\\user\\Conor\\big_commerce\\function-modules\\utils\\CategoryTreeMap.jsx'
+  'src/lib/CategoryTreeMap.jsx'
 );
 
 export default async function generateComponent() {
