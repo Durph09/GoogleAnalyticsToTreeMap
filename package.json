@@ -11,18 +11,18 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "dotenv": "^16.4.7",
     "@google-analytics/admin": "^7.6.0",
     "@google-analytics/data": "^4.12.0",
-    "canvas": "^2.11.2",
-    "d3-node": "^4.0.1",
-    "@vercel/blob": "^0.27.1",
     "@svgr/plugin-jsx": "^8.1.0",
     "@svgr/plugin-prettier": "^8.1.0",
-    "@svgr/plugin-svgo": "^8.1.0"
-    
+    "@svgr/plugin-svgo": "^8.1.0",
+    "@vercel/blob": "^0.27.1",
+    "canvas": "^2.11.2",
+    "d3-node": "^4.0.1",
+    "dotenv": "^16.4.7",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
-  "@svgr/core": "^8.1.0"
+    "@svgr/core": "^8.1.0"
   }
 }
