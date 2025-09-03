@@ -1,4 +1,5 @@
 import 'dotenv/config';
+import dotenv from 'dotenv';
 import { BetaAnalyticsDataClient } from '@google-analytics/data';
 import fs from 'fs/promises';
 
