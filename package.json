@@ -1,15 +1,24 @@
 {
   "name": "category-tree-map",
   "version": "1.0.0",
+  "description": "This project generates a hierarchical tree map visualization of product category analytics data. It processes Google Analytics data, maps it to product categories, and creates an interactive SVG visualization that can be used as a React component.",
+  "keywords": [],
+  "homepage": "https://github.com/Durph09/GoogleAnalyticsToTreeMap#readme",
+  "bugs": {
+    "url": "https://github.com/Durph09/GoogleAnalyticsToTreeMap/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Durph09/GoogleAnalyticsToTreeMap.git"
+  },
+  "license": "ISC",
+  "author": "Conor Mahaney",
+  "type": "commonjs",
   "main": "src/index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.mjs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "@google-analytics/admin": "^7.6.0",
     "@google-analytics/data": "^4.12.0",
